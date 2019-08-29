@@ -4,7 +4,7 @@
 Day1-Day16:資料清理數據前處理  
 Day17-Day30:資料科學特徵工程  
 Day31-Day46:機器學習基礎模型  
-Day47-Day50:機器學習調整參數(含Stacking概念) 
+Day47-Day50:機器學習調整參數(含Stacking概念)   
 Day54-Day62:非監督式機器學習   
 Day63-Day65:深度學習理論與實作  
 Day66-Day91:初探深度學習使用Keras  
